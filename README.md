@@ -9,5 +9,11 @@
   * dataset\photorealistic: folder with photorealistic style images
   * dataset\picasso: folder with Picasso style images
   * dataset\seurat: folder with Seurat style images
-  * dataset\vangogh: folder with van Gogh style images 
+  * dataset\vangogh: folder with van Gogh style images
+* results: folder with final results
+  * impressionist\landscape: folder with impressionist image style transfer results for landscape images
+  * impressionist\portrait: folder with impressionist image style transfer results for portrait images
+  * impressionist\still: folder with impressionist image style transfer results for still-life images
+  * modern: folder with modern image style transfer results
+  * multi-style: folder with multi-style image style transfer results
 * presentation: folder with final presentation associated with project
